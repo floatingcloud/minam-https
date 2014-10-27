@@ -1,0 +1,21 @@
+{
+  "TOP_RUN_COUNT": "지금까지 찾은 존잘/존예 얼굴 수",
+  "TOP_BTN_RUN": "미모대결시작",
+  "TOP_SHARE_RESULT": "결과를 뉴스피드에 공유하기",
+  "BTN_SELECT": "사진선택",
+  "BTN_NEXT": "다음",
+  "INSERT_PHOTO": "사진을 선택해주세요",
+  "BTN_RESULT_MAKING":"과학적 분석중",
+  "BTN_RESULT_END":"과학적 결과보기",
+  "QUESTION":"Q.나의 외모는 존잘/존예 이다.",
+  "ANSWER_YES":"진정 그러하다!",
+  "ANSWER_NO":"아니다.오징어다.",
+  "BTN_CONFIRM":"GO!",
+  "GRAPH_TITLE":"나의 외모 질문 누적통계",
+  "UGLY":"오징어",
+  "HANDSOME":"존잘/존예",
+  "GO_TO_TOMONI":"존잘/존예와 오징어 찾으러 Tomoni에 가기",
+  "RE_RUN":"믿기 힘든 결과라면 다시 한번 시도하기",
+  "BTN_SHARE":"공유하기",
+  "SHARE_SENTENCE":"누가 존잘/존예 인지 확인이 되었다면, 더이상 논쟁하지 맙시다!"
+}
